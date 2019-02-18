@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Chuck Norris Vibes
+This app consumes the chucknorris.io API to display jokes from the API.
 
 ## Available Scripts
 
